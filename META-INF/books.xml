@@ -1,7 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="principles-economics-2e" collection-id="col12122" style="economics" href="../collections/principles-economics-2e.collection.xml" />
-    <book slug="principles-macroeconomics-2e" collection-id="col12190" style="economics" href="../collections/principles-macroeconomics-2e.collection.xml" />
-    <book slug="principles-microeconomics-2e" collection-id="col12170" style="economics" href="../collections/principles-microeconomics-2e.collection.xml" />
-    <book slug="principles-macroeconomics-ap-courses-2e" collection-id="col23729" style="economics" href="../collections/principles-macroeconomics-ap-courses-2e.collection.xml" />
-    <book slug="principles-microeconomics-ap-courses-2e" collection-id="col23750" style="economics" href="../collections/principles-microeconomics-ap-courses-2e.collection.xml" />
+    <book slug="cc-derived-macroeconomics" collection-id="col11915" href="../collections/cc-derived-macroeconomics.collection.xml" />
 </container>
