@@ -1,0 +1,146 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11703</md:content-id>
+    <md:title>OpenStax Microeconomics in Ten Weeks</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>4f5c63a7-b238-44c3-b7f8-2c8f1df1dffa</md:uuid>
+<md:slug>openstax-microeconomics-in-ten-weeks</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m50947"/>
+    <col:subcollection>
+      <md:title>Welcome to Economics!</md:title>
+      <col:content>
+        <col:module document="m48590"/>
+        <col:module document="m48591"/>
+        <col:module document="m48592"/>
+        <col:module document="m48593"/>
+        <col:module document="m48594"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Demand and Supply</md:title>
+      <col:content>
+        <col:module document="m48628"/>
+        <col:module document="m48629"/>
+        <col:module document="m48630"/>
+        <col:module document="m48631"/>
+        <col:module document="m50936"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Price Ceilings and Price Floors</md:title>
+      <col:content>
+        <col:module document="m48632"/>
+        <col:module document="m50939"/>
+        <col:module document="m50940"/>
+        <col:module document="m50941"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Elasticity</md:title>
+      <col:content>
+        <col:module document="m48611"/>
+        <col:module document="m48614"/>
+        <col:module document="m48616"/>
+        <col:module document="m48618"/>
+        <col:module document="m48619"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Environmental Protection and Negative Externalities</md:title>
+      <col:content>
+        <col:module document="m48668"/>
+        <col:module document="m48669"/>
+        <col:module document="m48670"/>
+        <col:module document="m48671"/>
+        <col:module document="m48672"/>
+        <col:module document="m48673"/>
+        <col:module document="m50943"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Positive Externalities and Public Goods</md:title>
+      <col:content>
+        <col:module document="m48675"/>
+        <col:module document="m48676"/>
+        <col:module document="m48678"/>
+        <col:module document="m48680"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Consumer Choices</md:title>
+      <col:content>
+        <col:module document="m50946"/>
+        <col:module document="m48641"/>
+        <col:module document="m50467"/>
+        <col:module document="m50470"/>
+        <col:module document="m48642"/>
+        <col:module document="m48643"/>
+        <col:module document="m48644"/>
+        <col:module document="m50476"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>PPFs and Environmental Tradeoffs</md:title>
+      <col:content>
+        <col:module document="m48607"/>
+        <col:module document="m50942"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>International Trade</md:title>
+      <col:content>
+        <col:module document="m48818"/>
+        <col:module document="m48819"/>
+        <col:module document="m48820"/>
+        <col:module document="m48822"/>
+        <col:module document="m48823"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cost and Industry Structure</md:title>
+      <col:content>
+        <col:module document="m48620"/>
+        <col:module document="m48621"/>
+        <col:module document="m48625"/>
+        <col:module document="m48626"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Perfect Competition</md:title>
+      <col:content>
+        <col:module document="m48645"/>
+        <col:module document="m48646"/>
+        <col:module document="m48647"/>
+        <col:module document="m48648"/>
+        <col:module document="m48649"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopoly</md:title>
+      <col:content>
+        <col:module document="m48650"/>
+        <col:module document="m48651"/>
+        <col:module document="m48652"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopolistic Competition and Oligopoly</md:title>
+      <col:content>
+        <col:module document="m48658"/>
+        <col:module document="m48659"/>
+        <col:module document="m48660"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Present Value and Personal Finance</md:title>
+      <col:content>
+        <col:module document="m48834"/>
+        <col:module document="m48700"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m48831"/>
+  </col:content>
+</col:collection>

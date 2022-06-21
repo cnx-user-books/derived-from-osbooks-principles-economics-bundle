@@ -1,0 +1,253 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Optional: Demand and Supply at Work in Labor Markets</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m50941</md:content-id>
+  <md:title>Optional: Demand and Supply at Work in Labor Markets</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Predict shifts in the demand and supply curves of the labor market</item>
+<item>Explain the impact of new technology on the demand and supply curves of the labor market</item>
+</list></md:abstract>
+  <md:uuid>cf6c77ee-5209-4905-a0ec-7f7d921edc66</md:uuid>
+</metadata>
+
+<content>
+ <para id="fs-idm189945040">This section applies Supply and Demand concepts to labor markets. It is meant to follow your reading on minimum wage.</para><section id="fs-idp142428368">
+<title>Shifts in Labor Demand</title>
+<para id="fs-idm9497664">The demand curve for labor shows the quantity of labor employers wish to hire at any given salary or wage rate, under the <term class="no-emphasis"><emphasis effect="italics">ceteris paribus</emphasis></term> assumption. A change in the wage or salary will result in a change in the quantity demanded of labor. If the wage rate increases, employers will want to hire fewer employees. The quantity of labor demanded will decrease, and there will be a movement upward along the demand curve. If the wages and salaries decrease, employers are more likely to hire a greater number of workers. The quantity of labor demanded will increase, resulting in a downward movement along the demand curve.</para><para id="fs-idp101095040">Shifts in the demand curve for labor occur for many reasons. One key reason is that the demand for labor is based on the demand for the good or service that is being produced. For example, the more new automobiles consumers demand, the greater the number of workers automakers will need to hire. Therefore the demand for labor is called a “derived demand.” Here are some examples of derived demand for labor:</para>
+<list id="fs-idp143298608">
+<item>The demand for chefs is dependent on the demand for restaurant meals.</item>
+<item>The demand for pharmacists is dependent on the demand for prescription drugs.</item>
+<item>The demand for attorneys is dependent on the demand for legal services.</item>
+</list>
+<para id="fs-idp132595664">As the demand for the goods and services increases, the demand for labor will increase, or shift to the right, to meet employers’ production requirements. As the demand for the goods and services decreases, the demand for labor will decrease, or shift to the left. <link target-id="Table_04_02" document=""/> shows that in addition to the derived demand for labor, demand can also increase or decrease (shift) in response to several factors.</para>
+
+<table id="Table_04_02" summary="This table has two columns and six rows. The columns are labeled 'Factors' and 'Results.' Under the 'Factors' column are the following phrases, 'Demand for Output,' 'Education and Training,' 'Technology,' 'Number of Companies,' 'Government Regulations,' and 'Price and Availability of Other Inputs.' Under the 'Results' column are the following explanations: 'When the demand for the good produced (output) increases, both the output price and profitability increase. As a result, producers demand more labor to ramp up production,' 'Well-trained and educated workforce causes an increase in the demand for that labor by employers. Increased levels of productivity within the workforce will cause the demand for labor to shift to the right. If the workforce is not well-trained or educated, employers will not hire from within that labor pool, since they will need to spend a significant amount of time and money training that workforce. Demand for such will shift to the left,' 'Technology changes can act as either substitutes for or complements to labor. When technology acts as a substitute, it replace the need for the number of workers an employer needs to hire. For example, word processing decreased the number of typists needed in the workplace. This shifted the demand curve for typists left. An increase in availability of certain technologies may increase the demand for labor. Technology that acts as a complement to labor will increase the demand for certain types of labor, resulting in a rightward shift of the demand curve. For example, the increased use of word processing and other software has increased the demand for information technology professionals who can resolve software and hardware issues related to a firms' network. More and better technology will increase demand for skilled workers who know how to use technology to enhance workplace productivity. Those workers who do not adapt to changes in technology will experience a decrease in demand,' 'An increase in the number of companies producing a given product will increase the demand for labor resulting in a shift to the right. A decrease in the number of companies producing a given product will decrease the demand for labor resulting in a shift to the left,' 'Complying with government regulations can increase or decrease the demand for labor at any given wage. In the heath care industry, government rules may require that nurses be hired to carry out certain medical procedures. This will increase the demand for nurses. Less-trained healthcare workers would be prohibited from carrying out these procedures, and the demand for these workers will shift to the left,' and 'Labor is not the only input into the production process. For example, a sales person at a call center needs a telephone and a computer terminal to enter data and record sales. The demand for salespersons at the call center will increase if the number of telephones and computer terminals available increases. This will cause a rightward shift of the demand curve. As the amount of inputs increases, the demand for labor will increase. If the terminal or the telephones malfunction, then the demand for that labor force will decrease. As the quantity of other inputs decreases, the demand for labor will decrease. Similarly, if prices of other inputs fall, production will become more profitable and suppliers will demand more labor in increase production. The opposite is also true. Higher input prices lower demand for labor.">
+<title>Factors That Can Shift Demand</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry>Factors</entry>
+<entry>Results</entry>
+</row>
+</thead>
+
+<tbody>
+<row>
+<entry>Demand for Output</entry>
+<entry>When the demand for the good produced (output) increases, both the output price and profitability increase. As a result, producers demand more labor to ramp up production.</entry>
+</row>
+
+<row>
+<entry>Education and Training</entry>
+<entry>A well-trained and educated workforce causes an increase in the demand for that labor by employers. Increased levels of productivity within the workforce will cause the demand for labor to shift to the right. If the workforce is not well-trained or educated, employers will not hire from within that labor pool, since they will need to spend a significant amount of time and money training that workforce. Demand for such will shift to the left.</entry>
+</row>
+
+<row>
+<entry>Technology</entry>
+<entry>Technology changes can act as either substitutes for or complements to labor. When technology acts as a substitute, it replaces the need for the number of workers an employer needs to hire. For example, word processing decreased the number of typists needed in the workplace. This shifted the demand curve for typists left. An increase in the availability of certain technologies may increase the demand for labor. Technology that acts as a complement to labor will increase the demand for certain types of labor, resulting in a rightward shift of the demand curve. For example, the increased use of word processing and other software has increased the demand for information technology professionals who can resolve software and hardware issues related to a firm’s network. More and better technology will increase demand for skilled workers who know how to use technology to enhance workplace productivity. Those workers who do not adapt to changes in technology will experience a decrease in demand.</entry>
+</row>
+
+<row>
+<entry>Number of Companies</entry>
+<entry>An increase in the number of companies producing a given product will increase the demand for labor resulting in a shift to the right. A decrease in the number of companies producing a given product will decrease the demand for labor resulting in a shift to the left.</entry>
+</row>
+
+<row>
+<entry>Government Regulations</entry>
+<entry>Complying with government regulations can increase or decrease the demand for labor at any given wage. In the healthcare industry, government rules may require that nurses be hired to carry out certain medical procedures. This will increase the demand for nurses. Less-trained healthcare workers would be prohibited from carrying out these procedures, and the demand for these workers will shift to the left.</entry>
+</row>
+
+<row>
+<entry>Price and Availability of Other Inputs</entry>
+<entry>Labor is not the only input into the production process. For example, a salesperson at a call center needs a telephone and a computer terminal to enter data and record sales. The demand for salespersons at the call center will increase if the number of telephones and computer terminals available increases. This will cause a rightward shift of the demand curve. As the amount of inputs increases, the demand for labor will increase. If the terminal or the telephones malfunction, then the demand for that labor force will decrease. As the quantity of other inputs decreases, the demand for labor will decrease. Similarly, if prices of other inputs fall, production will become more profitable and suppliers will demand more labor to increase production. The opposite is also true. Higher input prices lower demand for labor</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+<note id="fs-idm14604192" class="economics linkup"><para id="fs-idp66991952">Click <link url="http://openstaxcollege.org/l/Futurework">here</link> to read more about “Trends and Challenges for Work in the 21<sup>st</sup> Century.”</para>
+<media id="fs-idm72574304" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/Futurework.png" width="130"/>
+</media>
+</note></section>
+
+<section id="fs-idm39446896">
+<title>Shifts in Labor Supply</title>
+<para id="fs-idp49629200">The supply of labor is upward-sloping and adheres to the law of supply: The higher the price, the greater the quantity supplied and the lower the price, the less quantity supplied. The supply curve models the tradeoff between supplying labor into the market or using time in leisure activities at every given price level. The higher the wage, the more labor is willing to work and forego leisure activities. <link target-id="Table_04_03" document=""/> lists some of the factors that will cause the supply to increase or decrease.</para>
+
+<table id="Table_04_03" summary="This table has two columns and three rows. The columns are labeled 'Factors' and 'Results.' Under the column 'Factors' are the phrases: 'Number of Workers,' 'Required Education,' and 'Government Policies.' Under the 'Results' column are the explanations: 'An increased number of workers will cause the supply curve to shift to the right. An increased number of workers can be due to several factors, such as immigration, increasing population, and aging population, and changing demographics. Polices that encourage immigration will increase the supply of labor, and vice versa. Population grows when birth rates exceed death rates; this eventually increases supply of labor when the former reach working age. An again and therefore retiring population will decrease the supply of labor. Another example of changing demographics is more women working outside of the home, which increases the supply of labor,' 'The more required education, the lower the supply. There is a lower supply  of PhD mathematicians than of high school mathematics teachers; there is a lower supply of cardiologists than or primary care physicians; and there is a lower supply of physicians than of nurses,' and 'Government policies can also affect the supply of labor for jobs. On the one hand, the government may support rules that set high qualifications for certain jobs: academic training, certificates or licenses, or experience. When these qualifications are made rougher, the number of qualified workers will decrease at any given wage. On the other hand, the government may also subsidize training or even reduce the required level of qualifications. For example, government might offer subsidies for nursing schools or nursing students. Such provisions would shift the supply curve of nurses to the right. In addition, government policies that change the relative desirability of working versus not working also affect the labor supply. These include unemployment benefits, maternity leave, child care benefits, and welfare policy. For examples, child care benefits may incrase the labor supply of working mothers. Long term unemployment benefits may discourage job searching for unemployed workers. All these policies must therefore be carefully designed to minimize any negative labor supply effects.">
+<title>Factors that Can Shift Supply</title>
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry>Factors</entry>
+<entry>Results</entry>
+</row>
+</thead>
+
+
+<tbody>
+<row>
+<entry>Number of Workers</entry>
+<entry>An increased number of workers will cause the supply curve to shift to the right. An increased number of workers can be due to several factors, such as immigration, increasing population, an aging population, and changing demographics. Policies that encourage immigration will increase the supply of labor, and vice versa. Population grows when birth rates exceed death rates; this eventually increases supply of labor when the former reach working age. An aging and therefore retiring population will decrease the supply of labor. Another example of changing demographics is more women working outside of the home, which increases the supply of labor.</entry>
+</row>
+
+<row>
+<entry>Required Education</entry>
+<entry>The more required education, the lower the supply. There is a lower supply of PhD mathematicians than of high school mathematics teachers; there is a lower supply of cardiologists than of primary care physicians; and there is a lower supply of physicians than of nurses.</entry>
+</row>
+
+<row>
+<entry>Government Policies </entry>
+<entry>Government policies can also affect the supply of labor for jobs. On the one hand, the government may support rules that set high qualifications for certain jobs: academic training, certificates or licenses, or experience. When these qualifications are made tougher, the number of qualified workers will decrease at any given wage. On the other hand, the government may also subsidize training or even reduce the required level of qualifications. For example, government might offer subsidies for nursing schools or nursing students. Such provisions would shift the supply curve of nurses to the right. In addition, government policies that change the relative desirability of working versus not working also affect the labor supply. These include unemployment benefits, maternity leave, child care benefits and welfare policy. For example, child care benefits may increase the labor supply of working mothers. Long term unemployment benefits may discourage job searching for unemployed workers. All these policies must therefore be carefully designed to minimize any negative labor supply effects.</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+<para id="fs-idp2080224">A change in salary will lead to a movement along labor demand or labor supply curves, but it will not shift those curves. However, other events like those outlined here will cause either the demand or the supply of labor to shift, and thus will move the labor market to a new equilibrium salary and quantity.</para>
+</section>
+<section id="fs-idm35414864">
+<title>Technology and Wage Inequality: The Four-Step Process</title>
+<para id="fs-idm53282000">Economic events can change the equilibrium salary (or wage) and quantity of labor. Consider how the wave of new information technologies, like computer and telecommunications networks, has affected low-skill and high-skill workers in the U.S. economy. From the perspective of employers who demand labor, these new technologies are often a substitute for low-skill laborers like file clerks who used to keep file cabinets full of paper records of transactions. However, the same new technologies are a complement to high-skill workers like managers, who benefit from the technological advances by being able to monitor more information, communicate more easily, and juggle a wider array of responsibilities. So, how will the new technologies affect the wages of high-skill and low-skill workers? For this question, the four-step process of analyzing how shifts in supply or demand affect a market (introduced in <link document="m48628">Demand and Supply</link>) works in this way:</para><para id="fs-idm29441920">Step 1. What did the markets for low-skill labor and high-skill labor look like before the arrival of the new technologies? In <link target-id="CNX_Econ_C04_009" document=""/> (a) and <link target-id="CNX_Econ_C04_009" document=""/> (b), S<sub>0</sub> is the original supply curve for labor and D<sub>0</sub> is the original demand curve for labor in each market. In each graph, the original point of equilibrium, E<sub>0</sub>, occurs at the price W<sub>0</sub> and the quantity Q<sub>0</sub>.</para><figure id="CNX_Econ_C04_009"><title>Technology and Wages: Applying Demand and Supply </title><media id="fs-idp37946784" alt="The two graphs show how new technology influences supply and demand. The graph on the left represents low-skill labor, and the graph on the right represents high-skill labor.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C04_009.jpg"/>
+</media>
+<caption>(a) The demand for low-skill labor shifts to the left when technology can do the job previously done by these workers. (b) New technologies can also increase the demand for high-skill labor in fields such as information technology and network administration.</caption></figure><para id="fs-idp71794016">Step 2. Does the new technology affect the supply of labor from households or the demand for labor from firms? The technology change described here affects demand for labor by firms that hire workers.</para>
+<para id="fs-idm12906624">Step 3. Will the new technology increase or decrease demand? Based on the description earlier, as the substitute for low-skill labor becomes available, demand for low-skill labor will shift to the left, from D<sub>0</sub> to D<sub>1</sub>. As the technology complement for high-skill labor becomes cheaper, demand for high-skill labor will shift to the right, from D<sub>0</sub> to D<sub>1</sub>.</para><para id="fs-idp68241088">Step 4. The new equilibrium for low-skill labor, shown as point E<sub>1</sub> with price W<sub>1</sub> and quantity Q<sub>1</sub>, has a lower wage and quantity hired than the original equilibrium, E<sub>0</sub>. The new equilibrium for high-skill labor, shown as point E<sub>1</sub> with price W<sub>1</sub> and quantity Q<sub>1</sub>, has a higher wage and quantity hired than the original equilibrium (E<sub>0</sub>).</para>
+
+<para id="fs-idp46147136">So, the demand and supply model predicts that the new computer and communications technologies will raise the pay of high-skill workers but reduce the pay of low-skill workers. Indeed, from the 1970s to the mid-2000s, the wage gap widened between high-skill and low-skill labor. According to the National Center for Education Statistics, in 1980, for example, a college graduate earned about 30% more than a high school graduate with comparable job experience, but by 2008, a college graduate earned about 70% more than an otherwise comparable high school graduate. Many economists believe that the trend toward greater wage inequality across the U.S. economy was primarily caused by the new technologies.</para>
+</section>
+<note id="fs-idm104031744" class="economics linkup"><para id="fs-idm166824816">Visit this <link url="http://openstaxcollege.org/l/oldtechjobs">website</link> to read about ten tech skills that have lost relevance in today’s workforce.</para>
+<media id="fs-idm74951280" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/oldtechjobs.png" width="130"/>
+</media>
+</note>
+
+<section id="fs-idp22148608" class="summary">
+<title>Concepts and Summary</title>
+<para id="fs-idm3091936">In the labor market, households are on the supply side of the market and firms are on the demand side. In the market for financial capital, households and firms can be on either side of the market: they are suppliers of financial capital when they save or make financial investments, and demanders of financial capital when they borrow or receive financial investments.</para>
+<para id="fs-idm10467104">In the demand and supply analysis of labor markets, the price can be measured by the annual salary or hourly wage received. The quantity of labor can be measured in various ways, like number of workers or the number of hours worked.</para>
+<para id="fs-idp110854192">Factors that can shift the demand curve for labor include: a change in the quantity demanded of the product that the labor produces; a change in the production process that uses more or less labor; and a change in government policy that affects the quantity of labor that firms wish to hire at a given wage. Demand can also increase or decrease (shift) in response to: workers’ level of education and training, technology, the number of companies, and availability and price of other inputs.</para>
+<para id="fs-idp95002240">The main factors that can shift the supply curve for labor are: how desirable a job appears to workers relative to the alternatives, government policy that either restricts or encourages the quantity of workers trained for the job, the number of workers in the economy, and required education.</para> 
+</section>
+
+<section id="fs-idp71963488" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp159528560">
+<problem id="fs-idp25663424">
+<para id="fs-idp147744">In the labor market, what causes a movement along the demand curve? What causes a shift in the demand curve?</para>
+</problem>
+<solution id="fs-idm53372560">
+<para id="fs-idm23955488">Changes in the wage rate (the price of labor) cause a movement along the demand curve. A change in anything else that affects demand for labor (e.g., changes in output, changes in the production process that use more or less labor, government regulation) causes a shift in the demand curve.</para>
+</solution>
+</exercise>
+<exercise id="fs-idp45547376">
+<problem id="fs-idp146200096">
+
+<para id="fs-idp67303856">In the labor market, what causes a movement along the supply curve? What causes a shift in the supply curve?</para>
+</problem>
+<solution id="fs-idm124829824">
+<para id="fs-idp22283632">Changes in the wage rate (the price of labor) cause a movement along the supply curve. A change in anything else that affects supply of labor (e.g., changes in how desirable the job is perceived to be, government policy to promote training in the field) causes a shift in the supply curve.</para>
+</solution>
+</exercise>
+<exercise id="fs-idm193520">
+<problem id="fs-idp69532176">
+<para id="fs-idp115258448">Why is a living wage considered a price floor? Does imposing a living wage have the same outcome as a minimum wage?</para>
+</problem>
+<solution id="fs-idp44891392">
+<para id="fs-idm50505232">Since a living wage is a suggested minimum wage, it acts like a price floor (assuming, of course, that it is followed). If the living wage is binding, it will cause an excess supply of labor at that wage rate.</para>
+</solution>
+</exercise>
+</section>
+
+<section id="fs-idp68109872" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm47342096">
+<problem id="fs-idm2257184">
+<para id="fs-idm63871904">What is the “price” commonly called in the labor market?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm69151072">
+<problem id="fs-idp92626960">
+<para id="fs-idp77507248">Are households demanders or suppliers in the goods market? Are firms demanders or suppliers in the goods market? What about the labor market and the financial market?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp82564768">
+<problem id="fs-idm61518128">
+<para id="fs-idm38630368">Name some factors that can cause a shift in the demand curve in labor markets.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm16220304">
+<problem id="fs-idm82843648">
+<para id="fs-idm32348720">Name some factors that can cause a shift in the supply curve in labor markets.</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm111790880" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idm93604400">
+<problem id="fs-idm143443424">
+<para id="fs-idp41685760">Other than the demand for labor, what would be another example of a “derived demand?”</para>
+</problem>
+</exercise>
+<exercise id="fs-idm69659616">
+<problem id="fs-idm122240240">
+<para id="fs-idm17622064">Suppose that a 5% increase in the minimum wage causes a 5% reduction in employment. How would this affect employers and how would it affect workers? In your opinion, would this be a good policy?</para>
+</problem>
+</exercise>
+<exercise id="fs-idm70777728">
+<problem id="fs-idm33104128">
+<para id="fs-idm68566240">What assumption is made for a minimum wage to be a nonbinding price floor? What assumption is made for a living wage price floor to be binding?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm51948864" class="problems">
+<title>Problems</title>
+<exercise id="fs-idm71962400">
+<problem id="fs-idp112817168">
+<para id="fs-idm35095696">Identify each of the following as involving either demand or supply. Draw a circular flow diagram and label the flows A through F. (Some choices can be on both sides of the goods market.)</para>
+<list id="fs-idp113852720" list-type="enumerated" number-style="lower-alpha">
+<item>Households in the labor market</item>
+<item>Firms in the goods market</item>
+<item>Firms in the financial market</item>
+<item>Households in the goods market</item>
+<item>Firms in the labor market</item>
+<item>Households in the financial market</item>
+</list>
+</problem>
+</exercise>
+<exercise id="fs-idm43995472">
+<problem id="fs-idm27791040">
+<para id="fs-idm61787152">Predict how each of the following events will raise or lower the equilibrium wage and quantity of coal miners in West Virginia. In each case, sketch a demand and supply diagram to illustrate your answer.</para>
+<list id="fs-idm74568304" list-type="enumerated" number-style="lower-alpha">
+<item>The price of oil rises.</item>
+<item>New coal-mining equipment is invented that is cheap and requires few workers to run.</item>
+<item>Several major companies that do not mine coal open factories in West Virginia, offering a lot of well-paid jobs.</item>
+<item>Government imposes costly new regulations to make coal-mining a safer job.</item>
+</list>
+</problem>
+</exercise>
+</section>
+<section id="fs-idp51385600" class="references">
+<title>References</title>
+<para id="fs-idp9444800">National Center for Educational Statistics. “Digest of Education Statistics.” (2008 and 2010). Accessed December 11, 2013. nces.ed.gov.</para>
+</section>
+
+
+</content>
+<glossary>
+<definition id="fs-idp171639136">
+<term>minimum wage</term><meaning id="fs-idp114700672"> a price floor that makes it illegal for an employer to pay employees less than a certain hourly rate</meaning>
+</definition>
+</glossary>
+
+</document>
