@@ -1,0 +1,376 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col30453</md:content-id>
+  <md:title>Derived copy of Principles of Macroeconomics</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>e953de23-cae0-449a-8ddf-27f63570195f</md:uuid>
+<md:slug>derived-copy-of-principles-of-macroeconomics</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m49460"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Welcome to Economics!</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48590"/>
+        
+      
+    
+    
+      <col:module document="m48591"/>
+        
+      
+    
+    
+      <col:module document="m48592"/>
+        
+      
+    
+    
+      <col:module document="m48593"/>
+        
+      
+    
+    
+      <col:module document="m48594"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Macroeconomic Perspective</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48705"/>
+        
+      
+    
+    
+      <col:module document="m48708"/>
+        
+      
+    
+    
+      <col:module document="m48709"/>
+        
+      
+    
+    
+      <col:module document="m48710"/>
+        
+      
+    
+    
+      <col:module document="m48711"/>
+        
+      
+    
+    
+      <col:module document="m48712"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Economic Growth</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48713"/>
+        
+      
+    
+    
+      <col:module document="m48714"/>
+        
+      
+    
+    
+      <col:module document="m48715"/>
+        
+      
+    
+    
+      <col:module document="m48716"/>
+        
+      
+    
+    
+      <col:module document="m48718"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Unemployment</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48719"/>
+        
+      
+    
+    
+      <col:module document="m48720"/>
+        
+      
+    
+    
+      <col:module document="m48721"/>
+        
+      
+    
+    
+      <col:module document="m48722"/>
+        
+      
+    
+    
+      <col:module document="m48723"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Inflation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48724"/>
+        
+      
+    
+    
+      <col:module document="m48725"/>
+        
+      
+    
+    
+      <col:module document="m48726"/>
+        
+      
+    
+    
+      <col:module document="m48727"/>
+        
+      
+    
+    
+      <col:module document="m48729"/>
+        
+      
+    
+    
+      <col:module document="m48730"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Aggregate Demand/Aggregate Supply Model</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48739"/>
+        
+      
+    
+    
+      <col:module document="m48740"/>
+        
+      
+    
+    
+      <col:module document="m48741"/>
+        
+      
+    
+    
+      <col:module document="m48742"/>
+        
+      
+    
+    
+      <col:module document="m48745"/>
+        
+      
+    
+    
+      <col:module document="m48747"/>
+        
+      
+    
+    
+      <col:module document="m48748"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Money and Banking</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48761"/>
+        
+      
+    
+    
+      <col:module document="m48762"/>
+        
+      
+    
+    
+      <col:module document="m48763"/>
+        
+      
+    
+    
+      <col:module document="m48766"/>
+        
+      
+    
+    
+      <col:module document="m48767"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Monetary Policy and Bank Regulation</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m48768"/>
+        
+      
+    
+    
+      <col:module document="m48770"/>
+        
+      
+    
+    
+      <col:module document="m48771"/>
+        
+      
+    
+    
+      <col:module document="m48772"/>
+        
+      
+    
+    
+      <col:module document="m48773"/>
+        
+      
+    
+    
+      <col:module document="m48774"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m48831"/>
+        
+      
+    
+    
+      <col:module document="m48835"/>
+        
+      
+    
+  </col:content>
+</col:collection>
