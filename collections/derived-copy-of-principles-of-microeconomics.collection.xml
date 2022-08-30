@@ -1,360 +1,100 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="khalaf tell">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col30482</md:content-id>
-  <md:title>Derived copy of Principles of Microeconomics</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>871ddc2c-49d7-4dd1-bab8-af827437f10e</md:uuid>
-<md:slug>derived-copy-of-principles-of-microeconomics</md:slug>
-</metadata>
-
+    <md:content-id>col30482</md:content-id>
+    <md:title>Derived copy of Principles of Microeconomics</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>871ddc2c-49d7-4dd1-bab8-af827437f10e</md:uuid>
+    <md:slug>derived-copy-of-principles-of-microeconomics</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m49463"/>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Welcome to Economics!</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48590"/>
-        
-      
-    
-    
-      <col:module document="m48591"/>
-        
-      
-    
-    
-      <col:module document="m48592"/>
-        
-      
-    
-    
-      <col:module document="m48593"/>
-        
-      
-    
-    
-      <col:module document="m48594"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Choice in a World of Scarcity</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48602"/>
-        
-      
-    
-    
-      <col:module document="m48605"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Demand and Supply</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48628"/>
-        
-      
-    
-    
-      <col:module document="m48629"/>
-        
-      
-    
-    
-      <col:module document="m48630"/>
-        
-      
-    
-    
-      <col:module document="m48631"/>
-        
-      
-    
-    
-      <col:module document="m48632"/>
-        
-      
-    
-    
-      <col:module document="m50323"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Consumer Choices</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48640"/>
-        
-      
-    
-    
-      <col:module document="m48641"/>
-        
-      
-    
-    
-      <col:module document="m48642"/>
-        
-      
-    
-    
-      <col:module document="m48643"/>
-        
-      
-    
-    
-      <col:module document="m48644"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Cost and Industry Structure</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48620"/>
-        
-      
-    
-    
-      <col:module document="m48621"/>
-        
-      
-    
-    
-      <col:module document="m48625"/>
-        
-      
-    
-    
-      <col:module document="m48626"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Perfect Competition</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48645"/>
-        
-      
-    
-    
-      <col:module document="m48646"/>
-        
-      
-    
-    
-      <col:module document="m48647"/>
-        
-      
-    
-    
-      <col:module document="m48648"/>
-        
-      
-    
-    
-      <col:module document="m48649"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Monopoly</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48650"/>
-        
-      
-    
-    
-      <col:module document="m48651"/>
-        
-      
-    
-    
-      <col:module document="m48652"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Monopolistic Competition and Oligopoly</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48658"/>
-        
-      
-    
-    
-      <col:module document="m48659"/>
-        
-      
-    
-    
-      <col:module document="m48660"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Monopoly and Antitrust Policy</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m48661"/>
-        
-      
-    
-    
-      <col:module document="m48662"/>
-        
-      
-    
-    
-      <col:module document="m48663"/>
-        
-      
-    
-    
-      <col:module document="m48666"/>
-        
-      
-    
-    
-      <col:module document="m48667"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      <col:module document="m48831"/>
-        
-      
-    
-    
-      <col:module document="m48833"/>
-        
-      
-    
-    
-      <col:module document="m48834"/>
-        
-      
-    
+    <col:module document="m49463"/>
+    <col:subcollection>
+      <md:title>Welcome to Economics!</md:title>
+      <col:content>
+        <col:module document="m48590"/>
+        <col:module document="m48591"/>
+        <col:module document="m48592"/>
+        <col:module document="m48593"/>
+        <col:module document="m48594"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Choice in a World of Scarcity</md:title>
+      <col:content>
+        <col:module document="m48602"/>
+        <col:module document="m48605"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Demand and Supply</md:title>
+      <col:content>
+        <col:module document="m48628"/>
+        <col:module document="m48629"/>
+        <col:module document="m48630"/>
+        <col:module document="m48631"/>
+        <col:module document="m48632"/>
+        <col:module document="m50323"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Consumer Choices</md:title>
+      <col:content>
+        <col:module document="m48640"/>
+        <col:module document="m48641"/>
+        <col:module document="m48642"/>
+        <col:module document="m48643"/>
+        <col:module document="m48644"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Cost and Industry Structure</md:title>
+      <col:content>
+        <col:module document="m48620"/>
+        <col:module document="m48621"/>
+        <col:module document="m48625"/>
+        <col:module document="m48626"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Perfect Competition</md:title>
+      <col:content>
+        <col:module document="m48645"/>
+        <col:module document="m48646"/>
+        <col:module document="m48647"/>
+        <col:module document="m48648"/>
+        <col:module document="m48649"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopoly</md:title>
+      <col:content>
+        <col:module document="m48650"/>
+        <col:module document="m48651"/>
+        <col:module document="m48652"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopolistic Competition and Oligopoly</md:title>
+      <col:content>
+        <col:module document="m48658"/>
+        <col:module document="m48659"/>
+        <col:module document="m48660"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopoly and Antitrust Policy</md:title>
+      <col:content>
+        <col:module document="m48661"/>
+        <col:module document="m48662"/>
+        <col:module document="m48663"/>
+        <col:module document="m48666"/>
+        <col:module document="m48667"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m48831"/>
+    <col:module document="m48833"/>
+    <col:module document="m48834"/>
   </col:content>
 </col:collection>
