@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Steven Ko">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11681</md:content-id>
     <md:title>Derived copy of Microeconomics</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>ffd9d2de-8743-4581-800e-4f4b74a9a141</md:uuid>
-<md:slug>derived-copy-of-microeconomics</md:slug>
-</metadata>
+    <md:slug>derived-copy-of-microeconomics</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m49463"/>
     <col:module document="m48831"/>
